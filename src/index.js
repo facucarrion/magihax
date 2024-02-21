@@ -1,4 +1,4 @@
-import * as wrtc from '@koush/wrtc'
+import wrtc from '@koush/wrtc'
 import XMLHttpRequest from 'xhr2'
 import WebSocket from 'ws'
 import url from 'url'
